@@ -1,8 +1,0 @@
----
-title: "Learning from r markdown"
-output: html_notebook
----
-
-There are some records about what I learned from R markdown.
-    In 2019/05/25, I encountered a problem about combining shiny app and r markdown's table of contents (toc_float).
-    The toc_float command will not work.
