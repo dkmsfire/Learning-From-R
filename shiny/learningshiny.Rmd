@@ -1,0 +1,8 @@
+---
+title: "Learning from shiny"
+output: html_notebook
+---
+
+This is an shiny tips. I will record something interesting about I using shiny app.
+
+    In 2019/5/25, I record the app about what I did in Activity Regnition project.
