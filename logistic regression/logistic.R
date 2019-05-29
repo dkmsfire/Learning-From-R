@@ -16,3 +16,7 @@ points(bodysize,fitted(g),pch=20) # optional: you could skip this draws an invis
 
 library(popbio)
 logi.hist.plot(bodysize,survive,boxp=FALSE,type="hist",col="gray")
+
+### this is a bad example of logistic regression plot, I thought.
+### In PlexBio CNV, I use ggplot2 and gridExtra to do this job, and I get a lot of
+### beautiful plots. Need to record this.
